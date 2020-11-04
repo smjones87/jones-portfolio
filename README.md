@@ -9,4 +9,4 @@ I haven't had any advanced experience with data visualization before coming to t
 
 # Portfolio
 
-Visualizing Government Debt assignment is linked [here](/dataviz1.md).
+Visualizing Government Debt assignment is linked [here](jones-portfolio/dataviz1.md).
