@@ -8,5 +8,5 @@ My name is Samantha, but I go by Sam, and my pronouns are she/her/hers. I am a s
 I haven't had any advanced experience with data visualization before coming to this class (I consider "advanced" to be anything beyond simple Excel charts). I hope to learn how to create more captivating data visualizations that are insightful, comprehensible, and showcase data in a way that also sends a message, or tells a story. I'm also really looking forward to learning how to utilize platforms such as GitHub and Tableau. Data is really important for decision-making in the arts, and I hope to gain skills in this course that can help me create and present data effectively in my future career. 
 
 # Portfolio
-(For all future data visualizations.)
-Visualizing Government Debt assignment is linked [here](jones-portfolio/dataviz1.md).
+
+Visualizing Government Debt assignment is linked [here](/dataviz1.md).
