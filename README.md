@@ -9,4 +9,4 @@ I haven't had any advanced experience with data visualization before coming to t
 
 # Portfolio
 
-## Data Visualization Assignment 1: Visualizing Government Debt [here](/dataviz1.md)
+## Data Visualization Assignment 1: [Visualizing Government Debt](/dataviz1.md)
