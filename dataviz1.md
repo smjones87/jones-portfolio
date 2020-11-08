@@ -9,4 +9,7 @@
 ## General Government Debt Line Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/4273342"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Analysis and Explanation
+The three visualizations are very different.
+
 ### Back to [home page](/README.md)
