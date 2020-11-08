@@ -16,4 +16,6 @@ The line charts grid serves a different purpose, it allows the viewer to compare
 
 In my last visualization, my goal was to make it easier to compare the trend lines of debt-to-GDP ratios over time between countries. I decided to highlight the United States with the color red (the specific red from the flag), and make the other countries' lines gray so that the viewer can make comparisons between the U.S. and other countries. Although the graph is busy with all of the lines, countries can be deselected in the legend if the viewer only wants to compare the U.S. to certain countries. The brief description underneath the title also reinforces that the intent of the visualization is for the viewer to compare the U.S.' debt to that of other countries around the world.
 
+The data source for all three graphs is [OECD](https://data.oecd.org/gga/general-government-debt.htm)
+
 ### Back to [home page](/README.md)
