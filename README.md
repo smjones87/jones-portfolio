@@ -11,6 +11,6 @@ I haven't had any advanced experience with data visualization before coming to t
 
 ## Data Visualization Assignment 1: [Visualizing Government Debt](/dataviz1.md)
 
-## Tableau Exercise: [Trust in news sources](/tableauex.md)
+## Tableau Exercise: [Trust in News Sources](/tableauex.md)
 
 ## Assignment 3 & 4: [Critique by Design](/critiquebydesign.md)
