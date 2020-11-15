@@ -11,5 +11,6 @@ My approach to redesigning this data visualization was very focused on making it
 This was the third design I came up with and the one I was most satisfied with. I wanted to make the 1-5 scores for each category of alumni to be close together so that it would be easier to look through the proportions and see where they were different across the groups. I also chose to present the scale from  lowest to highest confidence (1 being the lowest and 5 being the highest) from left to right so that when the viewer reads from left to right, their attention is initially drawn to the low confidence scores that the article focuses on. Because the original table didn't use color in a meaningful way, I went back to the first chapter in the Good Charts Workbook to revisit how color can be used for Likert scale data. To distinguish levels of confidence, both negative and positive, I chose to use light and dark shades of the opposing colors blue and orange. I then chose to make the score of 3 in the middle as well as the "not sure" responses gray because they were neutral responses, distinguishing them with color fill and then diagonal stripes.
 
 ## My Final Visualization
+![Final redesign](2020-11-14 (2).png)
 
 ### Back to [home page](/README.md)
