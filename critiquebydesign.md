@@ -7,12 +7,15 @@ I found this visualization in a [Gallup news article](https://news.gallup.com/po
 ## My Process
 My approach to redesigning this data visualization was very focused on making it easier for the viewer to draw comparisons between the groups in the data, so that it became more clear the differences in confidence levels between females and males as well as between LGBT alumni and non-LGBT alumni. I thought the best way to compare the four groups through their Likert scale responses would be to create some kind of bar chart, so I went through a few iterations and designs.
 
+#### Test 1
 ![First redesign](IMG_7236.jpg)
 My first idea was to make two separate bar charts, one comparing female responses to males and another comparing LGBT responses to non-LGBT. However, I quickly realized that this wasn't really making it any easier for the viewer to draw conclusions from looking at the visualization. Color and neatness of this sketch would have aided some, but I wasn't happy with how it was only really evident that females and LGBT alumni had lower confidence scores until you got to the very end of each chart when looking from left to right. 
 
+#### Test 2
 ![Second redesign](IMG_7238.jpg)
 I played around with the idea of separating each group and showing their confidence levels through individual horizontal bar charts. I clearly did not even attempt to finish this sketch because I realized again that this type of visualization would not aid the viewer in comparing confidence levels between groups. One thing I did take away from this iteration though was that I wanted to use color to differentiate the scored responses, 1-5, rather than use color to differentiate the key groups.
 
+#### Test 3
 ![Third redesign test](IMG_7239.jpg)
 
 
