@@ -7,22 +7,24 @@ I found this visualization in a [Gallup news article](https://news.gallup.com/po
 ## My Process
 My approach to redesigning this data visualization was very focused on making it easier for the viewer to draw comparisons between the groups in the data, so that it became more clear the differences in confidence levels between females and males as well as between LGBT alumni and non-LGBT alumni. I thought the best way to compare the four groups through their Likert scale responses would be to create some kind of bar chart, so I went through a few iterations and designs.
 
-#### Test 1
+### Test 1
 ![First redesign](IMG_7236.jpg)
 My first idea was to make two separate bar charts, one comparing female responses to males and another comparing LGBT responses to non-LGBT. However, I quickly realized that this wasn't really making it any easier for the viewer to draw conclusions from looking at the visualization. Color and neatness of this sketch would have aided some, but I wasn't happy with how it was only really evident that females and LGBT alumni had lower confidence scores until you got to the very end of each chart when looking from left to right. 
 
-#### Test 2
+### Test 2
 ![Second redesign](IMG_7238.jpg)
 I played around with the idea of separating each group and showing their confidence levels through individual horizontal bar charts. I clearly did not even attempt to finish this sketch because I realized again that this type of visualization would not aid the viewer in comparing confidence levels between groups. One thing I did take away from this iteration though was that I wanted to use color to differentiate the scored responses, 1-5, rather than use color to differentiate the key groups.
 
-#### Test 3
+### Test 3
 ![Third redesign test](IMG_7239.jpg)
-
+This time before going back to the drawing board, I revisted the Good Charts textbook and Workbook for some inspiration. I realized that a horizontal stacked bar chart representing the proportions of Likert scale responses for each key group, and then presenting each stacked bar chart on top of each other, might be a more effective way to visualize this data. However, after sketching the legend for this visualization, I decided I would rather present the Likert scale proportions from least confident to most confident instead to focus on the low confidence responses talked about in the article.
 
 ![Third redesign](IMG_7234.jpg)
 This was the third design I came up with and the one I was most satisfied with. I wanted to make the 1-5 scores for each category of alumni to be close together so that it would be easier to look through the proportions and see where they were different across the groups. I also chose to present the scale from  lowest to highest confidence (1 being the lowest and 5 being the highest) from left to right so that when the viewer reads from left to right, their attention is initially drawn to the low confidence scores that the article focuses on. Because the original table didn't use color in a meaningful way, I went back to the first chapter in the Good Charts Workbook to revisit how color can be used for Likert scale data. To distinguish levels of confidence, both negative and positive, I chose to use light and dark shades of the opposing colors blue and orange. I then chose to make the score of 3 in the middle as well as the "not sure" responses gray because they were neutral responses, distinguishing them with color fill and then diagonal stripes.
 
 ## My Final Visualization
 ![Final redesign](2020-11-14 (2).png)
+I shared my final redesign in my Test 3 phase with a few classmates, and I really liked a couple of suggestions that were made. One was to reorder the key groups in which the stacked bars were presented, from the highest proportion of low confidence (LGBT) to the lowest proportion of low confidence (Males). I was more satisifed with this visualization in that sense because it makes it absolutely clear which groups had the lowest levels of confidence in their alma maters. This way also presents the LGBT and Female groups at the top, which reinforces the argument of the article that those two groups who are most likely to report sexual assault, are also the least confident that their universities would fully investigate those reports. Another suggestion was to place the "Not Sure" proportion in the middle of the bars rather than at the far right, so they are presented as a more neutral response in the middle. The other suggestion that was made that I chose not take, was to possibly use different colors for the LGBT and Female groups. I liked using color to represent the Likert score, and I felt that changing the color scheme of two of the groups would make the visualization too busy.
+After taking all of the suggestions and critiques into consideration, I went to Balsamiq to wireframe my final redesign, which is shown above.
 
 ### Back to [home page](/README.md)
