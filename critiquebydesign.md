@@ -9,7 +9,8 @@ I found this visualization in a [Gallup news article](https://news.gallup.com/po
 ### My Process
 My approach to redesigning this data visualization was very focused on making it easier for the viewer to draw comparisons between the groups in the data, so that it became more clear the differences in confidence levels between females and males as well as between LGBT alumni and non-LGBT alumni. I thought the best way to compare the four groups through their Likert scale responses would be to create some kind of bar chart, so I went through a few iterations and designs.
 
-
+![Third redesign](IMG_7234.jpg)
+This was the third design I came up with and the one I was most satisfied with. I wanted to make the 1-5 scores for each category of alumni to be close together so that it would be easier to look through the proportions and see where they were different across the groups. I also chose to present the scale from  lowest to highest confidence (1 being the lowest and 5 being the highest) from left to right so that when the viewer reads from left to right, their attention is initially drawn to the low confidence scores that the article focuses on.
 
 ### My Final Visualization
 
