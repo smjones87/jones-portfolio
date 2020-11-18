@@ -14,3 +14,5 @@ I haven't had any advanced experience with data visualization before coming to t
 ## Tableau Exercise: [Trust in News Sources](/tableauex.md)
 
 ## Assignment 3 & 4: [Critique by Design](/critiquebydesign.md)
+
+## Tableau Exercise 2: [COVID-19 Map](/tableauex2.md)
