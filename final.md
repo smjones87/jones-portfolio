@@ -1,4 +1,6 @@
-# Final Project Part 1
+# Final Project
+
+## Part 1
 
 
 ### Back to [home page](/README.md)
