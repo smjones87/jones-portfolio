@@ -17,6 +17,4 @@ I haven't had any advanced experience with data visualization before coming to t
 
 ## Tableau Exercise 2: [COVID-19 Map](/tableauex2.md)
 
-# Final Project
-
-## [Part 1](/final1.md)
+# [Final Project](/final.md)
