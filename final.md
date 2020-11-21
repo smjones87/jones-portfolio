@@ -6,6 +6,10 @@
 
 The data I am using focuses on the rights of LGBTI people across the world; which countries have laws protecting LGBTI people and various rights, as well as which countries have laws criminalizing LGBTI people for their sexual orientation. Part of the audience is LGBTI people, but I really want to focus on appealing to people who identify as or claim to be allies to the LGBTQIA community, but are not as educated on the subject of LGBTI human rights around the world. While this data covers information from many countries, I want to focus on the audience in the United States, and point out where the United States is both ahead of the curve with LGBTI protections and where it is falling behind. In the current political climate, I have found that many people want to educate themselves on marginalized groups and take more action to support those groups, but have a hard time confronting biases and pushing through personal barriers to really make change and be a true ally. As a member of the LGBTQ community, I am very passionate about the subject and interested in learning about these human rights on an international scale.
 
+One sentence summary:
+Reader statement:
+Call to action:
+
 ### Initial Sketches
 
 ### Data
