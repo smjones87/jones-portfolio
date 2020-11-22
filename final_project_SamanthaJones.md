@@ -18,7 +18,7 @@ Call to action: Use your voice to advocate for LGBTI rights in the United States
 These maps are obviously inaccurate, but give a general idea of the main ideas in this data: where countries have enacted laws protecting the LGBTI community, and where countries have criminalized the LGBTI community. This is basically what ILGA World's own maps show, and the maps that I make will provide a starting place for the story.
 
 ![Charts](/initial_charts.jpg)
-These charts are also inaccurate, but show how many opportunities there are in this dataset to show more specific comparisons and tell more specific and compelling stories. I am considering comparing specific helpful and harmful laws across the world, possibly divided by continents, and also showing a global picture of proportions of countres that have certain laws in place. I believe with creating individual visualizations for different points in the data, I will be able to tell a more robust story than I would with only maps.
+These charts are also inaccurate, but show how many opportunities there are in this dataset to show more specific comparisons and tell more specific and compelling stories. I am considering comparing specific helpful and harmful laws across the world, possibly divided by continents, and also showing a global picture of proportions of countres that have certain laws in place. I believe through creating individual visualizations for different points in the data, I will be able to tell a more robust story than I would with only maps.
 
 ### Data
 
