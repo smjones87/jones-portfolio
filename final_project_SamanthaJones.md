@@ -10,7 +10,7 @@ One sentence summary: There are many countries that still criminalize the LGBTI 
 
 Reader statement: As a reader, I want to know where in the world the LGBTI community are harmed, so that I can advocate better and support the cause.
 
-Call to action: Use your voice to advocate for LGBTI rights in the United States and internationally, and if you can donate to organizations that support these efforts.
+Call to action: Use your voice to advocate for LGBTI rights in the United States and internationally, and if you can, donate to organizations that support these efforts.
 
 ### Initial Sketches
 
