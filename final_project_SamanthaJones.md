@@ -28,4 +28,10 @@ The data source is The International Lesbian, Gay, Bisexual, Trans and Intersex 
 
 I plan to use Shorthand to create and format my final project as well as my final presentation. After looking through the data more in-depth, I will create more robust sketches and will likely use the Balsamiq wireframing tool, before going to Tableau to create my visualizations.
 
+## Part 1 Revision
+
+### Outline
+
+### Data
+
 ### Back to [home page](/README.md)
