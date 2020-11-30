@@ -34,13 +34,13 @@ I plan to use Shorthand to create and format my final project as well as my fina
 
 After receiving feedback on Part I and working through Part II, I decided to rethink the scope and the story of my final project. While sticking to some of my original points of focus within the ILGA data and LGTBI rights, I am going to narrow the scope to focus on conversion therapy bans, or lack thereof, particularly in the United States but also using international data for a point of comparison. The purpose of my project remains the same, but I believe a more specific story will be more engaging and lead to a stronger call to action.
 
-One sentence summary:
+One sentence summary: The United States has made strides in giving legal rights to LGBTQ+ citizens, but the LGBTQ+ community is still harmed and needs protection against conversion therapy.
 
-Reader statement:
+Reader statement: As a reader, I want to know more about conversion therapy and how the United States needs to protect the LGBTQ+ community, so that I can advocate better for a federal ban against conversion therapy.
 
 Story arc:
 
-Call to action:
+Call to action: Donate to - , learn more at  - , follow and share -- platforms
 
 ### Data
 
