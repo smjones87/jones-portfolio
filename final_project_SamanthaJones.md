@@ -1,6 +1,6 @@
 # Final Project
 
-## Part 1
+## Part I
 
 ### Outline
 
@@ -28,9 +28,19 @@ The data source is The International Lesbian, Gay, Bisexual, Trans and Intersex 
 
 I plan to use Shorthand to create and format my final project as well as my final presentation. After looking through the data more in-depth, I will create more robust sketches and will likely use the Balsamiq wireframing tool, before going to Tableau to create my visualizations.
 
-## Part 1 Revision
+## Part I Revision
 
 ### Outline
+
+After receiving feedback on Part I and working through Part II, I decided to rethink the scope and the story of my final project. While sticking to some of my original points of focus within the ILGA data and LGTBI rights, I am going to narrow the scope to focus on conversion therapy bans, or lack thereof, particularly in the United States but also using international data for a point of comparison. The purpose of my project remains the same, but I believe a more specific story will be more engaging and lead to a stronger call to action.
+
+One sentence summary:
+
+Reader statement:
+
+Story arc:
+
+Call to action:
 
 ### Data
 
