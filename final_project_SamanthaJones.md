@@ -50,4 +50,12 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 
 [Wireframes](Part II wireframes.pdf)
 
+### User Research
+
+Question                                    | Feedback
+What is your initial reaction to the story? | Conversion therapy needs to go!
+                                            | It's affirming to see a reality I am well aware of reflected in the data, even if its a tragic reality.
+                                            | This is both logical, but also terrifying.
+                                            | I definitely knew about this issue myself, but did not know how wide spread it was or how linked it was to suicide attempts in LGBTQ youth. That was really shocking
+
 ### Back to [home page](/README.md)
