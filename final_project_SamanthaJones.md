@@ -47,6 +47,6 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 ## Part II
 
 ### Wireframes/Storyboards
-!(Wireframes)[/Part II wireframes .pdf]
+![Wireframes](/Part II wireframes.pdf)
 
 ### Back to [home page](/README.md)
