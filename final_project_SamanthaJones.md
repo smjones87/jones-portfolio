@@ -50,10 +50,15 @@ Call to action: Follow and donate to The Trevor Project, become a member of Born
 
 ### User Research
 
-I shared my wireframes/storyboards with a few classmates and received a lot of helpful feedback from five different people. They are all around my age, but some up to ten years older, and a couple of them also identify as LGBTQ. While I think the audience of my project can be from very diverse backgrounds, it was important to me to see how the story resonated with those in the LGBTQ community and others who identify as LGBTQ allies.
+To get feedback, I shared my wireframes/storyboards with a few classmates and received many helpful critiques from five different people. I sent them the wireframes/storyboards along with a Google form for them to anonymously respond to my questions. The ages of those that responded are between 20-35, and a couple of them also identify as LGBTQ. The target audience of my project is LGBTQ allies of all ages and backgrounds, but it was also important to me to see how the story resonated with those in the LGBTQ community as well.
 
-| Question                                          | Feedback
-| What is your initial reaction to the story?       | Conversion therapy needs to go!
+|Goal                 |Questions Asked                                         |Feedback
+|Emotional appeal     |What is your initial reaction to the story?             |The majority of respondents were shocked and worried about the reality regarding the detrimental effects of conversion therapy on LGBTQ youth. Some respondents were more familiar with the subject than others, but reported that they learned more about how wide spread the issue is and gained a new perspective.
+|Clarity of narrative |Does the flow of information make sense?                |Most respondents said the information was clear and the flow of the narrative made sense. One suggested that the timeline is moved to before or after the map so that the information about legislation is all together, and that the presentation begins with the problem. Another suggested that I use the map as a transition into the call to action by adding more direct text.
+
+
+|Question                                           | Feedback
+|                                                   | Conversion therapy needs to go!
 |                                                   | It's affirming to see a reality I am well aware of reflected in the data, even if its a tragic reality.
 |                                                   | This is both logical, but also terrifying.
 |                                                   | I definitely knew about this issue myself, but did not know how wide spread it was or how linked it was to suicide attempts in LGBTQ youth. That was really shocking
