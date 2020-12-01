@@ -63,6 +63,7 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 |                                             | I think it is fine the way it is but maybe you could consider starting with the problem so that people know what you are talking about and then moving the timeline to right before or after the map so that the information about legislation is all together.
 |                                             | Maybe you could use icons or some sort of callout text for the number of teens that will experience conversion therapy from doctors or religious figures. I would also maybe put this earlier while you are explaining the problem
 |                                             | I think you could still end on the map and say something like "We need this whole map to be blue, here's how you can help"
-
+| Would you take action after seeing this presentation? If so, is there a specific action you feel more drawn to? | Born Perfect because it's so specific to this particular problem
+|                                                                                                                 | I think so! I think at the very least I would follow these organizations. I think it might also be cool to include a petition or something concrete so people could feel that they are directly doing something to aid in passing anti-conversion therapy legislation.
 
 ### Back to [home page](/README.md)
