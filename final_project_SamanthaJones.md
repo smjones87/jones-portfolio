@@ -14,7 +14,7 @@ Call to action: Use your voice to advocate for LGBTI rights in the United States
 
 ### Initial Sketches
 
-![Maps](/initial_maps.jpg){ width=50% }
+![Maps](/initial_maps.jpg){width=50%}
 These maps are obviously inaccurate, but give a general idea of the main ideas in this data: where countries have enacted laws protecting the LGBTI community, and where countries have criminalized the LGBTI community. This is basically what ILGA World's own maps show, and the maps that I make will provide a starting place for the story.
 
 ![Charts](/initial_charts.jpg)
