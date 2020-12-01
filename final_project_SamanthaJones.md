@@ -32,15 +32,13 @@ I plan to use Shorthand to create and format my final project as well as my fina
 
 ### Outline
 
-After receiving feedback on Part I and working through Part II, I decided to rethink the scope and the story of my final project. While sticking to some of my original points of focus within the ILGA data and LGTBI rights, I am going to narrow the scope to focus on conversion therapy bans, or lack thereof, particularly in the United States but also using international data for a point of comparison. The purpose of my project remains the same, but I believe a more specific story will be more engaging and lead to a stronger call to action.
+After receiving feedback on Part I and working through Part II, I decided to rethink the scope and the story of my final project. While sticking to some of my original points of focus within LGTBQ rights that I learned about in the ILGA data, I am going to narrow the scope to focus on conversion therapy bans, or lack thereof, specifically in the United States. At first, I was focused on trying to create a story out of a single data set from ILGA and ended up with a vague storyline that was trying to do too much at once. An issue in LGBTQ rights that the ILGA data made me think about and want to research more on is the topic of conversion therapy, so I decided to broaden my research on on that subject to create a more specific narrative. The purpose of my project remains the same, but I believe a more specific story will be more engaging and lead to a stronger call to action.
 
 One sentence summary: The United States has made strides in giving legal rights to LGBTQ+ citizens, but the LGBTQ+ community is still harmed and needs protection against conversion therapy.
 
 Reader statement: As a reader, I want to know more about conversion therapy and how the United States needs to protect the LGBTQ+ community, so that I can advocate better for a federal ban against conversion therapy.
 
-Story arc:
-
-Call to action: Donate to - , learn more at  - , follow and share -- platforms
+Call to action: Follow and donate to The Trevor Project, become a member of Born Perfect, and follow the ACLU and HRC campaigns for LGBTQ rights.
 
 ### Data
 
@@ -51,6 +49,8 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 [Wireframes](Part II wireframes.pdf)
 
 ### User Research
+
+I shared my wireframes/storyboards with a few classmates and received a lot of helpful feedback from five different people. They are all around my age, but some up to ten years older, and a couple of them also identify as LGBTQ. While I think the audience of my project can be from very diverse backgrounds, it was important to me to see how the story resonated with those in the LGBTQ community and others who identify as LGBTQ allies.
 
 | Question                                          | Feedback
 | What is your initial reaction to the story?       | Conversion therapy needs to go!
@@ -80,5 +80,6 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 | Final thoughts or suggestions?                   | Consistency of the use of blue really helps! This is an important topic. I'm excited to see it finished. For any of the data buried in text, I think maybe some call-outs will help as well. I wouldn't want to miss anything!
 |                                                  | Thank you for including the content warning at the beginning! The use of blue throughout is really nice.
 
+After reading through this feedback, it is evident to me that the narrative and message of my project is strong, but a couple of the visualizations definitely need some work. I plan to change the icon graph of people, probably splitting it into two different charts to show the two different statistics. I will also significantly alter the side-by-side bar graph, changing a lot of its elements to make the information and visualization more clear. I will also consider rearranging some elements of the story, and at the very least fill out the subtitles and text to make the story more complete.
 
 ### Back to [home page](/README.md)
