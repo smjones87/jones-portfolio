@@ -45,10 +45,15 @@ Call to action: Follow and donate to The Trevor Project, become a member of Born
 Below are the sources I will be using for my final project.
 
 GLAAD. “Conversion Therapy.” Accessed December 1, 2020. https://www.glaad.org/conversiontherapy?response_type=embed.
+
 Movement Advancement Project. “Conversion ‘Therapy’ Laws,” November 27, 2020. https://www.lgbtmap.org/equality-maps/conversion_therapy.
+
 History. “Gay Rights,” June 26, 2020. https://www.history.com/topics/gay-rights/history-of-gay-rights.
+
 ACLU. “LGBT Rights.” Accessed December 1, 2020. https://www.aclu.org/issues/lgbt-rights.
+
 Mallory, Christy, Taylor N.T. Brown, and Kerith J. Conron. “Conversion Therapy and LGBT Youth.” UCLA School of Law Williams Institute, June 2019. https://williamsinstitute.law.ucla.edu/publications/conversion-therapy-and-lgbt-youth/.
+
 “National Survey on LGBTQ Youth Mental Health 2020.” The Trevor Project. Accessed December 1, 2020. https://www.thetrevorproject.org/survey-2020/?section=Conversion-Therapy-Change-Attempts.
 
 ## Part II
