@@ -65,5 +65,15 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 |                                             | I think you could still end on the map and say something like "We need this whole map to be blue, here's how you can help"
 | Would you take action after seeing this presentation? If so, is there a specific action you feel more drawn to? | Born Perfect because it's so specific to this particular problem
 |                                                                                                                 | I think so! I think at the very least I would follow these organizations. I think it might also be cool to include a petition or something concrete so people could feel that they are directly doing something to aid in passing anti-conversion therapy legislation.
+|                                             | Hard to say. Since I also identify as a member of the LGBTQ community, I already knew about 3/4 of the call to action links. I didn't know about Born Perfect which is a cool project! I'm wondering if maybe you could guide readers to the 1 or 2 resources that fit them and their knowledge base best?
+|                                             | Of the organizations listed, I am most drawn to the Trevor Project.
+| Is there any information you feel is left out, or unnecessary information that you would remove?    | If there are any states that are considering legislation to ban the practice, it would be interesting to see those listed.
+| Do you think the data visualizations aid the narrative? Is there anything you would change about them? | They definitely do. Simple and straightforward.
+|                                             | it took me a significant amount of time to associate the "60%" statistic with the non greyed-out figures, and the "10%" with the blue figure. Maybe a more direct link about how those figures relate to the visualization would help make that point hit harder?
+|                                             | I don't completely understand the Suicide Attempt bar charts. I think it is challenging to make comparisons because they are sideways. The axes could also be more completely labeled
+|                                             | The first icon chart took me a second. I'd almost make two separate ones so that the distinction between 60% and 10% are clear. This might also be just a user error, because there's nothing incredibly confusing about this. Maybe shading them both blue? One lighter?
+| Final thoughts or suggestions?              | Consistency of the use of blue really helps! This is an important topic. I'm excited to see it finished. For any of the data buried in text, I think maybe some call-outs will help as well. I wouldn't want to miss anything!
+|                                             | Thank you for including the content warning at the beginning! The use of blue throughout is really nice.
+
 
 ### Back to [home page](/README.md)
