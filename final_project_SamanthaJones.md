@@ -42,6 +42,9 @@ Call to action: Follow and donate to The Trevor Project, become a member of Born
 
 ### Data
 
+Below are the sources I will be using for my final project.
+
+
 ## Part II
 
 ### Wireframes/Storyboards
