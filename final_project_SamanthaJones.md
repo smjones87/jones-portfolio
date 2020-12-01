@@ -52,7 +52,7 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 
 ### User Research
 
-#### | Question                                    | Feedback
+| Question                                    | Feedback
 | What is your initial reaction to the story? | Conversion therapy needs to go!
 |                                             | It's affirming to see a reality I am well aware of reflected in the data, even if its a tragic reality.
 |                                             | This is both logical, but also terrifying.
