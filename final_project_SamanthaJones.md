@@ -57,5 +57,12 @@ Call to action: Donate to - , learn more at  - , follow and share -- platforms
 |                                             | It's affirming to see a reality I am well aware of reflected in the data, even if its a tragic reality.
 |                                             | This is both logical, but also terrifying.
 |                                             | I definitely knew about this issue myself, but did not know how wide spread it was or how linked it was to suicide attempts in LGBTQ youth. That was really shocking
+| Does the flow of information make sense?    | Yes. The flow 100% makes sense. I don't think anything needs to be rearranged
+|                                             | It does! Super clear.
+|                                             | No, I think the flow makes total sense!
+|                                             | I think it is fine the way it is but maybe you could consider starting with the problem so that people know what you are talking about and then moving the timeline to right before or after the map so that the information about legislation is all together.
+|                                             | Maybe you could use icons or some sort of callout text for the number of teens that will experience conversion therapy from doctors or religious figures. I would also maybe put this earlier while you are explaining the problem
+|                                             | I think you could still end on the map and say something like "We need this whole map to be blue, here's how you can help"
+
 
 ### Back to [home page](/README.md)
