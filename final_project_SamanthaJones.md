@@ -113,9 +113,9 @@ Ryan, Caitlyn, Stephen T. Russell, David Huebner, Rafael Diaz, and Jorge Sanchez
 
 “Sexual Identity, Sex of Sexual Contacts, and Health-Related Behaviors Among Students in Grades 9–12 — United States and Selected Sites, 2015.” Surveillance Summaries. Centers for Disease Control and Prevention, August 12, 2016. https://www.cdc.gov/mmwr/volumes/65/ss/pdfs/ss6509.pdf.
 
-The Trevor Project. “Facts About Suicide.” Accessed December 7, 2020. https://www.thetrevorproject.org/resources/preventing-suicide/facts-about-suicide/.
-
 Teaching LGBTQ History. “LGBTQ Rights Timeline in American History.” Accessed December 7, 2020. http://www.lgbtqhistory.org/lgbt-rights-timeline-in-american-history/.
+
+The Trevor Project. “Facts About Suicide.” Accessed December 7, 2020. https://www.thetrevorproject.org/resources/preventing-suicide/facts-about-suicide/.
 
 UCLA School of Law Williams Institute. “LGB People Who Have Undergone Conversion Therapy Almost Twice as Likely to Attempt Suicide,” June 15, 2020. https://williamsinstitute.law.ucla.edu/press/lgb-suicide-ct-press-release/.
 
