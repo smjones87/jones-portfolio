@@ -19,8 +19,3 @@ I haven't had any advanced experience with data visualization before coming to t
 
 # [Final Project](/final_project_SamanthaJones.md)
 
-## [Part I](/finalpart1.md)
-
-## [Part II](/finalpart2.md)
-
-## [Part III](/finalpart3.md)
