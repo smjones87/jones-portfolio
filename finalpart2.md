@@ -4,7 +4,7 @@
 
 I utilized Balsamiq's wireframing tool to create my wireframes/storyboards. I used the wireframing elements to draft data visualizations, and I also included a visualization I had already created using Flourish. I built it out to really be a blueprint for when I transfer everything into Shorthand, including titles, subtitles, and text that tells the narrative alongside the visualizations. The PDF is attached below.
 
-[Wireframes/Storyboards](Part II wireframes.pdf)
+Download wireframes/storyboards [here](Part II wireframes.pdf)
 
 ## User Research
 
