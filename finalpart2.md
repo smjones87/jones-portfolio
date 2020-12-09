@@ -19,4 +19,8 @@ To get feedback, I shared my wireframes/storyboards with a few classmates and re
 
 After reading through this feedback, it is evident to me that the narrative and message of my project is strong, but a couple of the visualizations definitely need some work. I plan to change the icon graph of people, probably splitting it into two different charts to show the two different statistics. I will also alter the side-by-side bar graph, changing a lot of its elements to make the information and visualization more clear. I will also consider rearranging some elements of the story, and at the very least fill out the subtitles and text to make the story more complete, and use callouts with text formatting to draw the readers attention to valuable information within that text.
 
+### Jump to [Part III](/finalpart3.md)
+
+### Back to [final project](/final_project_SamanthaJones.md)
+
 ### Back to [home page](/README.md)
