@@ -54,4 +54,8 @@ Mallory, Christy, Taylor N.T. Brown, and Kerith J. Conron. “Conversion Therapy
 
 “National Survey on LGBTQ Youth Mental Health 2020.” The Trevor Project. Accessed December 1, 2020. https://www.thetrevorproject.org/survey-2020/?section=Conversion-Therapy-Change-Attempts.
 
+### Jump to [Part II](/finalpart2.md)
+
+### Back to [final project](/final_project_SamanthaJones.md)
+
 ### Back to [home page](/README.md)
