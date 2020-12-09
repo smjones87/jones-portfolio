@@ -1,10 +1,10 @@
-## Part III 
+# Part III 
 
-### [Final Project Shorthand Link](https://carnegiemellon.shorthandstories.com/protecting-lgtbq-youth-from-conversion--therapy-/index.html)
+## [Final Project Shorthand Link](https://carnegiemellon.shorthandstories.com/protecting-lgtbq-youth-from-conversion--therapy-/index.html)
 
-### Changes Made
+## Changes Made
 
-### References
+## References
 
 ACLU. “LGBT Rights.” Accessed December 1, 2020. https://www.aclu.org/issues/lgbt-rights.
 
