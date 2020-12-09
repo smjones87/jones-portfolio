@@ -53,3 +53,5 @@ ACLU. “LGBT Rights.” Accessed December 1, 2020. https://www.aclu.org/issues/
 Mallory, Christy, Taylor N.T. Brown, and Kerith J. Conron. “Conversion Therapy and LGBT Youth.” UCLA School of Law Williams Institute, June 2019. https://williamsinstitute.law.ucla.edu/publications/conversion-therapy-and-lgbt-youth/.
 
 “National Survey on LGBTQ Youth Mental Health 2020.” The Trevor Project. Accessed December 1, 2020. https://www.thetrevorproject.org/survey-2020/?section=Conversion-Therapy-Change-Attempts.
+
+### Back to [home page](/README.md)
