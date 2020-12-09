@@ -119,4 +119,8 @@ The Trevor Project. “Facts About Suicide.” Accessed December 7, 2020. https:
 
 UCLA School of Law Williams Institute. “LGB People Who Have Undergone Conversion Therapy Almost Twice as Likely to Attempt Suicide,” June 15, 2020. https://williamsinstitute.law.ucla.edu/press/lgb-suicide-ct-press-release/.
 
+### Jump to [Part II](/finalpart2.md)
+
+### Back to [final project]
+
 ### Back to [home page](/README.md)
